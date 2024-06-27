@@ -17,7 +17,6 @@ public class SuperKeywordAssignmt6Child extends SuperKeywordAssignmt6 {
 		obj.divide();
 		System.out.println(obj.newAdd());
 
-		// TODO Auto-generated method stub
 
 	}
 
