@@ -10,13 +10,14 @@ public class IteratorInterfacePgm {
 		obj.add("name");
 		obj.add("roll num");
 		obj.add("school");
+		obj.add("ammu");
+
 		Iterator<String> it = obj.iterator();
 		
 		while (it.hasNext()) {
 			System.out.println(it.next());
 		}
-		it.remove();
-		System.out.println(obj);
+		
 
 	}
 
